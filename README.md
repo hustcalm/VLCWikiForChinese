@@ -21,6 +21,7 @@ wiki的主要来源包括以下：
 *   [The Hacker's Guide to VLC](http://wiki.videolan.org/Documentation:Hacker%27s_Guide)
 *   [The VLC Modules Index](http://wiki.videolan.org/Documentation:Modules)
 *   [enjoy The Architecture](http://www.enjoythearchitecture.com/vlc-architecture.html)
+*   [VLC Developers Corner](http://wiki.videolan.org/Developers_Corner)
 
 整体来看，VideoLAN的wiki组织比较松散，因此本项目致力于整合资源，以友好地方式回馈给开源社区。
 
@@ -34,6 +35,7 @@ wiki的主要来源包括以下：
 *   vlc-hacker-guide
 *   vlc-modules-howto
 *   vlc-arch-guide
+*   vlc-dev-guide
 
 分别对应于上面的[项目内容](https://github.com/hustcalm/VLCWikiForChinese#%E9%A1%B9%E7%9B%AE%E5%86%85%E5%AE%B9)。
 
