@@ -35,7 +35,7 @@ wiki的主要来源包括以下：
 *   vlc-modules-howto
 *   vlc-arch-guide
 
-分别对应于上面的`项目内容`。
+分别对应于上面的[项目内容](https://github.com/hustcalm/VLCWikiForChinese#%E9%A1%B9%E7%9B%AE%E5%86%85%E5%AE%B9)。
 
 ##项目工作流程
 ###VLC开发小组成员
