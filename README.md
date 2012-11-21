@@ -1,7 +1,7 @@
 VLCWikiForChinese
 =================
 ##项目说明
-本项目是[vlccchina](http://vlcchina.org/wiki)的官方wiki，主要来源是[VLC](http://wiki.videolan.org/Main_Page)wiki页面的翻译，以及[vlc中文社区](http://vlcchina.or)的志愿者的贡献。
+本项目是[vlccchina](http://vlcchina.org/wiki)的官方wiki，主要来源是[VLC](http://wiki.videolan.org/Main_Page)wiki页面的翻译，以及[vlc中文社区](http://vlcchina.org)的志愿者的贡献。
 
 ##预备知识
 git和github的基本使用，教程参考链接：
